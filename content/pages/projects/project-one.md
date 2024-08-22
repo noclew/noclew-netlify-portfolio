@@ -4,7 +4,7 @@ title: >-
   Floor Plan Design Collaborator: A Data-Driven Approach to Assist Human
   Architects in Design Exploration
 colors: colors-a
-date: '0002-10-15'
+date: '2024-10-15'
 client: Awesome client
 description: >-
   After a long AI winter since the 1980s, artificial intelligence is now
