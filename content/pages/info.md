@@ -17,10 +17,6 @@ sections:
       ## Hey I’m Woongki Sung,  born and raised in the world, and that’s also
       where I’m based. 
 
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
