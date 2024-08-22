@@ -16,7 +16,8 @@ sections:
     title: 'I am woongki Sung. I am a Researcher, teacher, designer, and developer.'
     subtitle: >-
       This site is under construction. It will be opened soon with more buzz
-      words. Until then, please check my old Portfolio!
+      words. Until then, please check my old Portfolio (although it is a decade
+      old)!
     styles:
       self:
         height: auto
