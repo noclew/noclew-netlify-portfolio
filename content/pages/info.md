@@ -13,15 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: >+
+      ## Hey I’m Woongki Sung,  born and raised in the world, and that’s also
+      where I’m based. 
+
     styles:
       self:
         height: auto
@@ -46,6 +41,12 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    media:
+      type: ImageBlock
+      url: /images/IMG_3861.jpeg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     styles:
       self:
