@@ -4,7 +4,7 @@ title: >-
   Floor Plan Design Collaborator: A Data-Driven Approach to Assist Human
   Architects in Design Exploration
 colors: colors-a
-date: '2024-10-15'
+date: '2024-10-02'
 client: MIT Ph.D. Thesis work
 description: To be modified
 featuredImage:
