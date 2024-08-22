@@ -29,7 +29,7 @@ description: >-
   perspective of both lateral and vertical design development.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/36_Sampling Results.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
