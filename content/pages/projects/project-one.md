@@ -1,6 +1,8 @@
 ---
 type: ProjectLayout
-title: ''
+title: >-
+  Floor Plan Design Collaborator: A Data-Driven Approach to Assist Human
+  Architects in Design Exploration
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
