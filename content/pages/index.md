@@ -45,9 +45,7 @@ sections:
     type: HeroSection
     actions: []
     text: |
-      asdfafafaasfaf
-
-      asdfaf
+      [Link to my old portfolio](https://online.publuu.com/625390/1396144)
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
