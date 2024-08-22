@@ -30,7 +30,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/36_Sampling Results.png
-  altText: Project thumbnail image
+  altText: Generated plan example
 media:
   type: ImageBlock
   url: /images/bg1.jpg
