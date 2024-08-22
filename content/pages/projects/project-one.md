@@ -33,7 +33,6 @@ featuredImage:
   altText: Generated plan example
 media:
   type: ImageBlock
-  url: /images/36_Sampling Results.png
   altText: Project image
 ---
 
