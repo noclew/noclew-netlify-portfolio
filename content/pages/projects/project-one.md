@@ -7,10 +7,6 @@ colors: colors-a
 date: '2024-10-15'
 client: MIT Ph.D. Thesis work
 description: To be modified
-featuredImage:
-  type: ImageBlock
-  url: /images/36_Sampling Results.png
-  altText: Generated plan example
 media:
   type: ImageBlock
   altText: Project image
