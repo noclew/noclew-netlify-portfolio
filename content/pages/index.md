@@ -10,40 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: 'I am woongki Sung. I am a Researcher, teacher, designer, and developer.'
-    subtitle: >-
-      This site is under construction. It will be opened soon with more buzz
-      words.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -82,6 +48,40 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: 'I am woongki Sung. I am a Researcher, teacher, designer, and developer.'
+    subtitle: >-
+      This site is under construction. It will be opened soon with more buzz
+      words.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
