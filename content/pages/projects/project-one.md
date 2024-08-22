@@ -9,7 +9,6 @@ client: MIT Ph.D. Thesis work
 description: To be modified
 featuredImage:
   type: ImageBlock
-  url: /images/36_Sampling Results.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
