@@ -5,7 +5,7 @@ title: >-
   Architects in Design Exploration
 colors: colors-a
 date: '2024-10-15'
-client: Awesome client
+client: MIT Ph.D. Thesis work
 description: >-
   After a long AI winter since the 1980s, artificial intelligence is now
   experiencing a renaissance due to enhanced computing power and access to vast
